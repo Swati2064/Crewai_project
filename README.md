@@ -379,8 +379,3 @@ These projects help demonstrate:
 AI & Data Science Student
 Python Developer | Generative AI | Agentic AI | Machine Learning
 
----
-
-## ⭐ If You Like This Project
-
-If you find these **CrewAI + Gemini Multi-Agent projects** useful, consider giving the repository a ⭐ on GitHub.
